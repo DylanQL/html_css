@@ -1,0 +1,21 @@
+p{
+	font-weight:bold;
+}
+.mamifero{
+	color:green;
+}
+.oviparo{
+	color:purple;
+}
+.marino{
+	color:blue;
+}
+.artropodo{
+	color:orange;
+}
+#animal{
+	color:gray;
+}
+new_elemento{
+	color:pink;
+}
