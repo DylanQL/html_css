@@ -1,29 +1,50 @@
-#_1{
-	color:red;
-	font-family:'Comic Sans MS';
-	font-size:20px;
-	font-weight:bold;
-	font-style:italic;
-	text-align:center;
+span {
+  font-weight: bold;
+  text-decoration: line-through;
+  color: rebeccapurple;
 }
-#_2{
-	font-style:oblique;
-	font-family:Impact;
+
+p {
+  text-transform: uppercase;
+  letter-spacing: 10px;
 }
-#_3{
-	font-style:italic;
+
+#_1 {
+  color: red;
+  font-family: 'Comic Sans MS';
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
 }
-#_4{
+
+#_2 {
+  font-style: oblique;
+  font-family: Tahoma;
 }
-#_5{
+
+#_3 {
+  font-style: italic;
+  font-family: Georgia;
 }
-#_6{
+
+#_4 {
+  font-weight: bold;
 }
-#_7{
+
+#_5 {
+  text-align: center;
 }
-#_8{
+
+#_6 {
+  text-align: end;
 }
-#_9{
-}
-#_10{
-}
+
+#_7 {}
+
+#_8 {}
+
+#_9 {}
+
+#_10 {}
