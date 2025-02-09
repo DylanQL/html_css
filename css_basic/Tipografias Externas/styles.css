@@ -1,0 +1,20 @@
+h1 {
+  color: gray;
+  font-family: Arial;
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+ttf_remoto {
+  color: red;
+  font-family: 'Rubik Microbe';
+}
+
+ttf_local {
+  color: blue;
+  font-family: 'name_custom';
+  font-weight: 400;
+}
