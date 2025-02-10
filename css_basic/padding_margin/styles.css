@@ -1,0 +1,45 @@
+body {
+  background-color: beige;
+  padding: 20px;
+  font-family: fantasy;
+}
+
+.box_1 {
+  background-color: greenyellow;
+  padding: 20px;
+  text-align: end;
+}
+
+.box_2 {
+  background-color: fuchsia;
+  margin: 20px;
+  text-align: center;
+}
+
+.box_3 {
+  background-color: gold;
+  text-align: start;
+  height: 50px;
+  width: 640px;
+}
+
+form {
+  background-color: crimson;
+  text-align: center;
+  margin: 20px;
+  padding: 20px 20px 20px 20px;
+  /* Movimiento horario comenzando por top, right, bottom, left */
+}
+
+.formulario_inputs {
+  background-color: black;
+  color: red;
+  padding: 4px;
+}
+
+.formulario_submit {
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  background-color: wheat;
+  color: blue;
+}
